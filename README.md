@@ -10,11 +10,13 @@
 ## Features:
 
 - Cadastro de usuário;
-- Cadastro de fornecedores;
-- Cadastro de produtos.
+- Pesquisa de usuários, (Por nome, ID, e listar todos);
+- Update usuários;
+- Delete usuários.
 
 ## Resources:
 
-- mysql-connector-java-8.0.22;
-- cyber.sql.
+- Tomcat 9.0;
+- Apache-maven-3.8.4;
+- Postgresql-9.5.25.
 
